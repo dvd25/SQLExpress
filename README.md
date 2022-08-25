@@ -1,4 +1,4 @@
-# SQLExpress
+# SQLExpress (Express.js and node.js)
 
 A backend application that offers API services for accessing a local MySQL database.
 
